@@ -15,9 +15,10 @@ title: 西川研究室Y505
 - クラウドコンピューティングなどICT人材育成に関する研究
 
 ## 過去の発表
-- 
-- 
-- 
+- [在宅ケアを想定した自動発報および可視化システムのPoC](http://gcmwso.web.fc2.com/pdf/forum06/forum06_1500.pdf)
+- [データ共有を軸とした問診票システム試作](http://gcmwso.web.fc2.com/pdf/gcm16/gcm16_1445.pdf)
+- [ウェアラブル端末とブロックチェーンを用いた生体情報共有システム](http://gcmwso.web.fc2.com/pdf/gcm15/gcm15_1530.pdf)
+- [情報処理教育における可視化の応用](https://www.jstage.jst.go.jp/article/jvs1990/26/Supplement1/26_Supplement1_233/_article/-char/ja/)
 
 ## 受賞・社会貢献活動など
 - IT勉強会開催などコミュニティ運営
