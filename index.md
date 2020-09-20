@@ -1,3 +1,8 @@
+---
+layout: default
+title: 西川研究室Y505
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kolinz/koheinishikawa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
