@@ -3,40 +3,36 @@ layout: default
 title: 西川研究室Y505
 ---
 
-## Welcome to GitHub Pages
+## 概要
+- 所属
+    - 情報学部
+- 場所
+    - 開志専門職大学 米山キャンパス
+    - Y505
+    
+## 研究内容
+- 企業におけるクラウドコンピューティング活用に関する研究
+- クラウドコンピューティングなどICT人材育成に関する研究
 
-You can use the [editor on GitHub](https://github.com/kolinz/koheinishikawa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 過去の発表
+- 
+- 
+- 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kolinz/koheinishikawa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 受賞・社会貢献活動など
+- IT勉強会開催などコミュニティ運営
+    - [IBM Cloud Users Group(BMXUG)](https://bmxug.connpass.com/)
+    - [IBM Users Group Japan](https://iugc.connpass.com/)
+- IBM公式外部アドボケイト
+    - 2020 IBM Champion for Developer
+    - 2017-2019 IBM Champion for Cloud
+- コンペティション参加
+    - 2020 Call for Code Reginal Finalists
+         - COVID-19向けメンタルヘルスケアチャットボットシステム [Stay Home, Check Your Stress](https://github.com/kolinz/stayhome-checkyourstress/blob/master/README-ja.md)   
+    - 2019 Call for Code Reginal Finalists / Global semi finalist
+         - 画像識別による細菌判別アプリ: [Prevent the outbreak of infection](https://github.com/kolinz/Prevent-Outbreaks-of-Infection)
+        
+## 連絡先
+- 西川浩平
+    - [Twitter @kolinz](https://twitter.com/kolinz)
+    - [Facebook](https://www.facebook.com/kohei.nishikawa)
