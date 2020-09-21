@@ -22,9 +22,9 @@ title: 西川研究室Y505
     - 2020 IBM Champion for Developer
     - 2017-2019 IBM Champion for Cloud
 - コンペティション参加
-    - 2020 Call for Code Reginal Finalists
+    - 2020 Call for Code Regional Finalists
          - COVID-19向けメンタルヘルスケアチャットボットシステム [Stay Home, Check Your Stress](https://github.com/kolinz/stayhome-checkyourstress/blob/master/README-ja.md)
-    - 2019 Call for Code Reginal Finalists / Global semi finalist
+    - 2019 Call for Code Regional Finalists / Global semi finalist
          - 画像識別による細菌判別アプリ: [Prevent the outbreak of infection](https://github.com/kolinz/Prevent-Outbreaks-of-Infection)
 - [千葉大学病院 地域医療連携部 メディカルイノベーション戦略プログラム](https://www.ho.chiba-u.ac.jp/chiiki/medicalinovation/)
     - 講師(～2021年3月までの予定)
