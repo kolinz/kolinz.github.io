@@ -37,7 +37,7 @@ title: 西川研究室Y505
 
 ## 技術ドキュメント
 - [Qiita](https://qiita.com/kolinz)
-- [M5Atom Liteの開発環境準備 Arduino IDE編](https://github.com/kolinz/kolinz.github.io/blob/gh-pages/docs/M5Atom%20Lite%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%BA%96%E5%82%99%20Arduino%20IDE%E7%B7%A8.pdf)
+- [各種手順書など(IoT,AI,クラウドなどの予定)](https://kolinz.github.io/docs/)
 
 ## 連絡先
 - 西川浩平
